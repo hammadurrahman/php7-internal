@@ -114,7 +114,7 @@
       * [8.3.1 基本用法](8/namespace.md)
       * [8.3.2 use导入](8/namespace.md)
       * [8.3.3 动态用法](8/namespace.md)
- 
+     <img src="img/book.jpg" height="280" >
 ## 实现PHP新特性
    * [1、break/continue按标签中断语法实现](try/break.md)
    * 2、defer语法
